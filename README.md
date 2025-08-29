@@ -6,11 +6,12 @@ I recently participated in Run space innovation challenge organized by  Taiwan's
 
 My Team 
 
- Adyath P (captain) 
-Rajkrishna T. R (me) 
-Ann joy
-Arjun S
-Aaromal sunil kumar
+1. Adyath P (captain) 
+2. Rajkrishna T. R (me) 
+3. Ann joy
+4. Arjun S
+5. Aaromal sunil kumar
+
 
 we all worked towards an idea for making the process of learning, building and availability of satellite data easier for everyone for educational and research purposes. 
 
